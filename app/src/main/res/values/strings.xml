@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_">Movie Detail</string>
+    <string name="title_activity_favourites">Favourites</string>
+    <string name="title_activity_activity_reviews">Movie Reviews</string>
+    <string name="favourites_button">Mark as Favourite</string>
+</resources>
